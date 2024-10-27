@@ -23,3 +23,13 @@ NOTE: ngrok can timeout. you need to restart the session if you see session expi
 ![Screenshot (218)](https://github.com/user-attachments/assets/c3ba7e13-a4f5-49c5-bc93-d0628118ac16)
 
 ![Screenshot (219)](https://github.com/user-attachments/assets/a7a85b8e-5352-4cba-a284-840f12723d24)
+
+
+# WEBSITE:
+![Screenshot (221)](https://github.com/user-attachments/assets/4131b4da-f705-4333-b9be-89a78a1990e3)
+
+![Screenshot (222)](https://github.com/user-attachments/assets/b4a0f952-93d5-4fbb-8ec2-b370cc857842)
+
+![Screenshot (223)](https://github.com/user-attachments/assets/9791486f-5444-4058-9378-000e82c02835)
+
+![Screenshot (225)](https://github.com/user-attachments/assets/c21a6e11-61e0-4e4d-adc2-dea920ca6f76)
